@@ -40,11 +40,11 @@ link naar de website: https://kyliecosmetics.com/en-eu/kylie-skin
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage kylie cosmetic
-<img src="images/kyliecosmetic.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Kyliecosmetic.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Kylie skin page
-<img src="images/kyliecosmeticpage2.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Kyliecosmeticpage2.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
