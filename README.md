@@ -41,7 +41,7 @@ dit is de link naar de website die ik wil gaan na maken: https://kyliecosmetics.
 #### Screenshot(s) van de eerste pagina (small screen): 
 
 Kyliecosmetics 
-<img src="images/![Kyliecosmetic](https://user-images.githubusercontent.com/94555176/142248121-92475f8a-4eaf-4e06-bcac-171c26d1df34.JPG)
+<img src="images/
 " width="375px" alt="Begin pagina kylie">
 
 #### Screenshot(s) van de tweede pagina (small screen):
