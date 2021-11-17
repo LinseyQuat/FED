@@ -36,15 +36,16 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+dit is de link naar de website die ik wil gaan na maken: https://kyliecosmetics.com/en-eu
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+
+Kyliecosmetics 
+<img src="images/kyliecosmetic.jpg" width="375px" alt="Begin pagina kylie">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+
+<img src="images/kyliecosmeticpage2.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
