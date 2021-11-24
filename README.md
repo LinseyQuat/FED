@@ -64,6 +64,8 @@ Kylie skin page
 
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+ https://miro.com/welcomeonboard/d1dmMWJ6RlpINTNza0puVVI5UE1rYXVEaTBZc1g0WkJyVVVjalA4QU5BYmZTTHNQNk9UV0l6WU9HSzhpMHlha3wzMDc0NDU3MzQ5NzE0NTk3MDQx?invite_link_id=90855077896
+ 
 
 </details>
 
@@ -77,7 +79,11 @@ Kylie skin page
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben zelf niet de beste in code taal. Ik vindt het erg intressant, maar om zelf te doen vindt ik minder leuk.
+Zoals ik al verwachte kost het mij veel tijd om een basis van een website te hebben en het ziet er nog niet spectaculair uit.
+Ik heb moeite met de afbeeldingen mee laten schalen, hiervoor ga ik een studentasistent om hulp vragen. De oefeningen die wij krijgen
+zijn erg handig, maar ik vindt het aslnog lastig om het toe te passen in mijn eigen code. Wel probeer ik heel erg mijn best te doen, maar zie ik andere 
+met hun site die al veel verder zijn.
 
 
 ### Agenda voor meeting
