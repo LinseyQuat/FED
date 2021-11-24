@@ -6,7 +6,6 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-https://linseyquat.github.io/FED/
 
 
 
@@ -37,15 +36,15 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website: https://kyliecosmetics.com/en-eu/kylie-skin
+link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Homepage kylie cosmetic
-<img src="images/Kyliecosmetic.jpg" width="375px" alt="omschrijving van de pagina">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Kylie skin page
-<img src="images/Kyliecosmeticpage2.jpg" width="375px" alt="omschrijving van de pagina">
+hier de naam van de pagina  
+<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -64,8 +63,6 @@ Kylie skin page
 
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
- https://miro.com/welcomeonboard/d1dmMWJ6RlpINTNza0puVVI5UE1rYXVEaTBZc1g0WkJyVVVjalA4QU5BYmZTTHNQNk9UV0l6WU9HSzhpMHlha3wzMDc0NDU3MzQ5NzE0NTk3MDQx?invite_link_id=90855077896
- 
 
 </details>
 
@@ -79,11 +76,7 @@ Kylie skin page
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Ik ben zelf niet de beste in code taal. Ik vindt het erg intressant, maar om zelf te doen vindt ik minder leuk.
-Zoals ik al verwachte kost het mij veel tijd om een basis van een website te hebben en het ziet er nog niet spectaculair uit.
-Ik heb moeite met de afbeeldingen mee laten schalen, hiervoor ga ik een studentasistent om hulp vragen. De oefeningen die wij krijgen
-zijn erg handig, maar ik vindt het aslnog lastig om het toe te passen in mijn eigen code. Wel probeer ik heel erg mijn best te doen, maar zie ik andere 
-met hun site die al veel verder zijn.
+hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
 ### Agenda voor meeting
