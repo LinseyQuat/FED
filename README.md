@@ -111,7 +111,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Mijn code houd ik nog niet echt netjes bij. Verder gaat het opzich wel goed en heb ik al veel nieuwe dingen geleerd dat ik wil gaan toe passen aan mijn website. Ik heb voor pagina 1 en 2 nu een beetje een opbouw van de pagina. De andere zijn wel veel verder dan mij, maar is besteed alsnog even veel tijd als hun eraan. 
+
+De feedback punten van vorige week heb ik toegepast.
 
 
 ### Agenda voor meeting
@@ -127,10 +129,8 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- mijn css netjes maken
+- verder had ik geen vragen tijdens de les en kreeg ook niet veel feedback daaromterug.
 
 </details>
 
@@ -143,31 +143,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
 
-### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
-
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Bij deze les was ik er niet bij vanwege omstandigheden.
 
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
@@ -181,7 +159,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben nog bezig met de pagina's helemaal vorm te geven, als ik dat helemaal heb gedaan ga ik bepaalde functies toevoegen waar aan het moet voldoen. Ik liep vast bij een youtube video dat ik om mijn website wilde plaatsen. Ik heb Zelf veel geprobeerd maar heb uiteindelijk toch een studentassistent om hulp gevraagd.
 
 
 ### Agenda voor meeting
@@ -197,10 +175,7 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik was hier niet bij maar heb wel vragen via teams kunnen stellen aan de studentassistent. En dat was dus over de video en een vraag over een image als background.
 
 </details>
 
@@ -214,7 +189,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had meer tijd nodig vanwege omstandigheden en omdat ik hier niet super goed in ben. Voor de herkansing heb ik een beter gevoel. De pagina's zijn nu helemaal vormgegeven en de functies zijn toegevoegd die moesten. 
 
 ### Screenshot(s)
 
