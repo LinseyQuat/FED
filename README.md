@@ -80,7 +80,7 @@ dynamisch deel is daar ook te vinden.
 ### Stand van zaken
 Ik vondt het lastig om er weer een beetje in te komen. Coderen is niet mijn sterkste punt. Ik was vooral bezig met de oefeningen via codepen. Met coderen begon ik met de header dat al veel moeite voor mij kosten, omdat ik niet altijd 1,2,3 zie wat ik moet doen. Het kost altijd wat meer tijd bij mij.
 
-<img src="proces1">
+<img src="images/proces1.jpg">
 
 
 ### Agenda voor meeting
