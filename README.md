@@ -86,11 +86,10 @@ Ik vondt het lastig om er weer een beetje in te komen. Coderen is niet mijn ster
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Linsey      | Yeliz      | Larissa    | Laurens        |
-|           ---     | ---                | ---          | footer         |
-|      geen vraag          | knoppen centreren            | Animatie    |                |
-|                |  |  |                |
-|                | ...                | ...          |                |
+Linsey : Footer
+Yeliz  : Geen vraag
+Larissa: Knoppen centreren
+Laurens: Animatie
 
 
 ### Verslag van meeting
@@ -119,12 +118,10 @@ De feedback punten van vorige week heb ik toegepast.
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+Linsey  : Geen vraag
+Yeliz   : Tweede pagina
+Larissa : Dark mode
+Anneke  : Geen vraag
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -144,6 +141,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 Bij deze les was ik er niet bij vanwege omstandigheden.
+
+Daarom heb ik wel zelf nog de screnreader gedownload om toe te passen.
+
+Ik had bij mijn images nog geen alt teksten, dat nam de screenreader ook niet over. Ik vondt screenreader wel wat lastig te begrijpen en heb toen ook hulp gevraagd aan mede studenten. Sommige teksten vergat de screenreader te lezen.
 
 
 
@@ -165,12 +166,10 @@ Ik ben nog bezig met de pagina's helemaal vorm te geven, als ik dat helemaal heb
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+Linsey   : Video
+Yeliz    : DOM
+Larissa  : Footer
+Anneke   : CSS opschonen
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -191,9 +190,19 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Stand van zaken
 Ik had meer tijd nodig vanwege omstandigheden en omdat ik hier niet super goed in ben. Voor de herkansing heb ik een beter gevoel. De pagina's zijn nu helemaal vormgegeven en de functies zijn toegevoegd die moesten. 
 
+de functies de ik heb uitgekozen om toe te voegen zijn:
+
+- Zoekfunctie
+- Contact Formulier
+- Feedback (is te vinden bij het contact formulier, als je iets vergeet in te vullen krijg je een pop up)
+- Video
+- Lettertype vergroten 
+
+Verder vondt ik het vak intressant, alleen om zelf te doen vindt ik nooit zo leuk... Zelf weet ik ook al goed wat ik wil gaan doen en dat is niet de tech kant op maar meer het vormgeven vooraf. 
+
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="">
 
 </details>
 
