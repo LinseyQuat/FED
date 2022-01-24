@@ -41,11 +41,11 @@ https://kyliecosmetics.com/en-eu/kylie-skin
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="Kyliepagina" width="375px" alt="de eerste pagina">
+<img src="Kyliepagina.JPG" width="375px" alt="de eerste pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/Kyliepagina1" width="375px" alt="de onderkant">
+<img src="images/Kyliepagina1.JPG" width="375px" alt="de onderkant">
  
 </details>
 
@@ -202,8 +202,11 @@ Verder vondt ik het vak intressant, alleen om zelf te doen vindt ik nooit zo leu
 
 ### Screenshot(s)
 
-<img src="">
-
+<img src="images/Pagina.JPG">
+<img src="images/pagina2.JPG">
+<img src="images/Pagina3.JPG">
+<img src="images/Pagina4.JPG">
+<img src="images/Pagina5.JPG">
 </details>
 
 
