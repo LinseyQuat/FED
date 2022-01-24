@@ -86,11 +86,11 @@ Ik vondt het lastig om er weer een beetje in te komen. Coderen is niet mijn ster
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik ze  r |
-| ...            | ...                | ...          | ...              |
+| Linsey      | Yeliz      | Larissa    | Laurens        |
+|           ---     | ---                | ---          | footer         |
+|      geen vraag          | knoppen centreren            | Animatie    |                |
+|                |  |  |                |
+|                | ...                | ...          |                |
 
 
 ### Verslag van meeting
