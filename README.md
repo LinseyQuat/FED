@@ -16,13 +16,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
-
+Linsey Quatfass
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Mijn start niveau is blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+mijn focus ligt bij de surface plane.
  
 </details>
 
@@ -36,15 +35,17 @@ hier je focus (kies uit responsive óf surface plane)
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+dit is de site die ik ga proberen na te maken.
+https://kyliecosmetics.com/en-eu/kylie-skin
+
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="Kyliepagina" width="375px" alt="de eerste pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Kyliepagina1" width="375px" alt="de onderkant">
  
 </details>
 
@@ -56,13 +57,14 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+ik heb hier een link naar de breakdown schetsen van de pagina's
+https://miro.com/app/board/o9J_li9GZRs=/
+
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+dynamisch deel is daar ook te vinden.
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+
 
 </details>
 
@@ -76,7 +78,9 @@ hier de naam van de pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik vondt het lastig om er weer een beetje in te komen. Coderen is niet mijn sterkste punt. Ik was vooral bezig met de oefeningen via codepen. Met coderen begon ik met de header dat al veel moeite voor mij kosten, omdat ik niet altijd 1,2,3 zie wat ik moet doen. Het kost altijd wat meer tijd bij mij.
+
+<img src="proces1">
 
 
 ### Agenda voor meeting
@@ -85,17 +89,15 @@ samen met je groepje opstellen
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
 | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik ze  r |
 | ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Aanpassen naar mobiele versie
+- proberen nth toe te passen
 
 </details>
 
